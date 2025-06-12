@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+Dockerfile
+.dockerignore
+.git
+.gitignore
+README.md
+# Ignore all files in the root directory except for the src directory
+src/*
